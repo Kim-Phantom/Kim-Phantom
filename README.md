@@ -11,7 +11,7 @@
 <br />
 
 **languages and tools**<br />
-<img src="https://img.shields.io/badge/visualstudioscode-007396?style=for-the-badge&logo=visualstudioscode&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Phantom&theme=cobalt&show_icons=true" />
 </p>
