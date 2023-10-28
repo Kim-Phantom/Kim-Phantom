@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <p align="center">
 <br />
-github.io 주소 : (https://kim-phantom.github.io/)<br />
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"> : (https://kim-phantom.github.io/)<br />
 <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
   
   
