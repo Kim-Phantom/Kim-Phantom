@@ -11,9 +11,7 @@
 <br />
 
 **languages and tools**<br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
-  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=visualstudioscode&logoColor=white">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Phantom&theme=cobalt&show_icons=true" />
 </p>
