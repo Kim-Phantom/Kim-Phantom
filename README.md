@@ -10,7 +10,7 @@
  <p align="center">
 <br />
 
-**languages and tools**<br />
+**languages and tools**<br /><br /><br />
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/eclipseide-000000?style=for-the-badge&logo=eclipseide&logoColor=white">
-  
+  <br /><br /><br /><br /><br /><br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Phantom&theme=cobalt&show_icons=true" />
 </p>
 
