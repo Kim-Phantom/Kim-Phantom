@@ -10,7 +10,7 @@
  <p align="center">
 <br />
 github.io 주소 : (https://kim-phantom.github.io/)<br />
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Java&logoColor=white">
   
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Phantom&theme=cobalt&show_icons=true" />
