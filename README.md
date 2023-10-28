@@ -2,11 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%60m+Phantom;Developers+Trainee)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🔥👨‍💻💰&fontAlign=70)
-
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 <br />
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <p align="center">
 <br />
+  dsfsfdsfdsfsdfdsfdsfsdfdsf
+  sfdsfdsfdsfdsfsdfsdfsfsdfdsfsdfsdfsdfsdf
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Phantom&theme=cobalt&show_icons=true" />
 </p>
 
